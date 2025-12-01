@@ -1,0 +1,23 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados",
+  "homepage": "https://github.com/davidmamaral/video-maker#readme",
+  "bugs": {
+    "url": "https://github.com/davidmamaral/video-maker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmamaral/video-maker.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
